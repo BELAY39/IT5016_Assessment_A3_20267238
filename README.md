@@ -11,10 +11,15 @@ The purpose of this reposittory is to practise programming and understand differ
 ##3.Code Included
 
 The repository contains four python programs from my previous programming work:
+
 -'staff_info.py'-collects staff and requisition information.
+
 -'requisitions_total.py'-calculates the total cost of requisition items.
+
 -'requisition_approval.py'-checks the requisition total and determines the approval status.
+
 -'display_requisitions.py'-displays the requisition information and results.
+
 I used these programs to practise functions,input,calculations,conditions,and displaying information.I also added comments to explain the programming principles used in the code.
 
 ##4.Programming principles
