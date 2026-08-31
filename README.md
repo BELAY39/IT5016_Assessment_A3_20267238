@@ -32,9 +32,11 @@ Functions are designed so they can be called more than once when needed.This red
 ###4.3 Readability
 
 clear variable names,comments,and organised code are used to make the program easier for other people to read and understand.
+
 ###4.4 Maintainability
 
 The code is organised into separate tasks and functions.This makes it easier to find errors,make changes,and add new features in the future.
+
 ###4.5 Separation of Responsibilites
 
 Each function has its own responsibility.For example,one function collects staff information,another calculates the requisition total,and another handles the approval decision.This keeps the code organised and easier to manage.
