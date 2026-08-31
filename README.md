@@ -7,20 +7,21 @@ The purpose of this reposittory is to practise programming and understand differ
 
 ##3.Code Included
 The repository contains four python programs from my previous programming work:
-
 -'staff_info.py'-collects staff and requisition information.
 -'requisitions_total.py'-calculates the total cost of requisition items.
 -'requisition_approval.py'-checks the requisition total and determines the approval status.
 -'display_requisitions.py'-displays the requisition information and results.
-
 I used these programs to practise functions,input,calculations,conditions,and displaying information.I also added comments to explain the programming principles used in the code.
 
 ##4.Programming principles
 The code is this repository demonstrates several important programming principles.These principles help make software easier to understand,maintain,test,and improve.
+
 ###4.1 Modularity
 The code is divided into separate functions,with each function performing a specific task.This makes the program easier to understand and allows individual parts of the code to be changed without affecting the whole program.
+
 ###4.2 Reusability
 Functions are designed so they can be called more than once when needed.This reduces repeated code and makes the program more efficient and easier to maintain.
+
 ###4.3 Readability
 clear variable names,comments,and organised code are used to make the program easier for other people to read and understand.
 ###4.4 Maintainability
