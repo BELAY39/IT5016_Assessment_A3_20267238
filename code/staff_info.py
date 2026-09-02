@@ -3,6 +3,7 @@
 #IT5016-Assessment 3,(Student ID:20267238)
 #Class:Software Development
 
+#Global counter used to generate a unique requisition Id
 #Task 1:collect Staff information
 requisition_counter=10000
 def staff_info():
